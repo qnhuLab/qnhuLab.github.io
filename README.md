@@ -1,4 +1,4 @@
-![image](https://github.com/liudongliangHI/liudongliangHI.github.io/blob/master/qnhu.jpg)
+![image](https://github.com/liudongliangHI/liudongliangHI.github.io/raw/master/qnhu.jpg)
 # Hu Qiannan
 Ph.D, Professor, Principal Investigator(Platform) 
 
