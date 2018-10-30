@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Hu Qiannan
+Ph.D, Professor, Principal Investigator(Platform) 
 
-You can use the [editor on GitHub](https://github.com/liudongliangHI/liudongliangHI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Email : qnhusibs.ac.cn
+Lab Name :  Cell Factory Design
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Areas	  
+(1) Cell Factory Design 
+(2) Computational Biology 
+(3) Systems Biology
 
-### Markdown
+## Selected Publications	  
+· Shaozhen Ding, Xiaoping Liao, Weizhong Tu,  Ling Wu, Yu Tian, Qiuping Sun, Junni Chen, Qian-Nan Hu*. EcoSynther: A customized platform to explore biosynthetic potential in E. coli. ACS Chemical Biology, 2017, 12(11):2823-2829.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+· Deng, Zhe; WeiZhong, Tu; ZiXin, Deng*; Hu, Qian-Nan*. PhID: an open-access integrated pharmacology interactions database for drugs, targets, diseases, genes, side-effects and pathways. Journal of Chemical Information and Modeling, 2017, 57(10):2395-2400.
 
-```markdown
-Syntax highlighted code block
+· Weizhong Tu,,,Qian-Nan Hu*. SynBioEcoli a comprehensive metabolism network of engineered E. coli in three dimensional visualization. Quantitative Biology. 2017, doi:10.1007/s40484-017-0098-1.
 
-# Header 1
-## Header 2
-### Header 3
+· Tu W ，Zhang H，Liu J， Qian-Nan Hu. BioSynther: a customized biosynthetic potential explorer，Bioinformatics，2016，32：472-473.
 
-- Bulleted
-- List
+· Caihua Wang，Juan Liu，Fei Luo，Qian-Nan Hu. Multi-fields model for predicting target-ligand interaction，Neurocomputing, 2016, 206:58-65.
 
-1. Numbered
-2. List
+· Wang CH，Liu J，Luo F，Deng ZX，Qian-Nan Hu. Predicting target-ligand interactions using protein ligand-binding site and ligand substructures，BMC Systems Biology，2015，9：S2.
 
-**Bold** and _Italic_ and `Code` text
+· Qian-Nan Hu, Zhe Deng, Weizhong Tu, Xiaoyan Yang, Zhibin Meng, Zixin Deng and Juan Liu. VNP: Interactive Visual Network Pharmacology of Diseases, Targets and Drugs. CPT: Pharmacometrics & Systems Pharmacology, 2014, 3, e105. 
 
-[Link](url) and ![Image](src)
-```
+· Jinmei Zhu, Chunfeng Wu, Xiaobing Li, Guisheng Wu, Shan Xie, Qian-Nan Hu, Zixin Deng, Micheal X. Zhu, Huairong Luo, Xuechuan Hong. Synthesis, biological evaluation and molecular modeling of substituted 2- butyryliocholine aminobenzimidazoles as new dual inhibitors of acetylchlinesterase and butyrylcholinesterase. Bioorganic & Medicinal Chemistry, 2013, 21(14):4218-4224.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liudongliangHI/liudongliangHI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+· Dong-Sheng Cao, Qing-Song Xu, Qian-Nan Hu, Yi-Zeng Liang. ChemoPy: freely available python package for computational biology and chemoinformatics. Bioinformatics, 2013, 29(8): 1092-1094.
