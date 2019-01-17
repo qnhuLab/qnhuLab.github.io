@@ -1,21 +1,21 @@
 # qnhuLab
 ![ ](https://github.com/qnhuLab/qnhuLab.github.io/blob/master/th.jpeg)
 
-## PI: Qiannan Hu
+### PI: Qiannan Hu
 Ph.D, Professor, Principal Investigator(Platform) 
 
 Email : qnhu@sibs.ac.cn
 
 Lab Name :  Cell Factory Design
 
-## Research Areas	  
+### Research Areas	  
 (1) Cell Factory Design 
 
 (2) Computational Biology 
 
 (3) Systems Biology
 
-## Selected Publications	  
+### Selected Publications	  
 · Shaozhen Ding, Xiaoping Liao, Weizhong Tu,  Ling Wu, Yu Tian, Qiuping Sun, Junni Chen, Qian-Nan Hu*. EcoSynther: A customized platform to explore biosynthetic potential in E. coli. ACS Chemical Biology, 2017, 12(11):2823-2829.
 
 · Deng, Zhe; WeiZhong, Tu; ZiXin, Deng*; Hu, Qian-Nan*. PhID: an open-access integrated pharmacology interactions database for drugs, targets, diseases, genes, side-effects and pathways. Journal of Chemical Information and Modeling, 2017, 57(10):2395-2400.
