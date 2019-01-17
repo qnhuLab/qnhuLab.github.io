@@ -4,6 +4,7 @@ Ph.D, Professor, Principal Investigator(Platform)
 ![image]()
 
 Email : qnhu@sibs.ac.cn
+
 Lab Name :  Cell Factory Design
 
 ## Research Areas	  
