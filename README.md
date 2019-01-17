@@ -1,6 +1,5 @@
-![image](https://github.com/qnhuLab/qnhuLab.github.io/blob/master/th.jpeg)
-
 # qnhuLab
+![image](https://github.com/qnhuLab/qnhuLab.github.io/blob/master/th.jpeg)
 
 ## PI: Qiannan Hu
 Ph.D, Professor, Principal Investigator(Platform) 
