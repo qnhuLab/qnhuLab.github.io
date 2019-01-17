@@ -1,9 +1,9 @@
-# Hu Qiannan
+# Qiannan Hu
 Ph.D, Professor, Principal Investigator(Platform) 
 
-![image](https://github.com/liudongliangHI/liudongliangHI.github.io/raw/master/qnhu.jpg)
+![image]()
 
-Email : qnhusibs.ac.cn
+Email : qnhu@sibs.ac.cn
 Lab Name :  Cell Factory Design
 
 ## Research Areas	  
